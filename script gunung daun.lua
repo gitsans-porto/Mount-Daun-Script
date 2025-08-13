@@ -15,7 +15,7 @@
 -- PASTIKAN 'SECRET_PHRASE' DAN 'VALIDITY_MINUTES' SAMA PERSIS DENGAN YANG ADA DI WEBSITE GENERATOR ANDA
 local DYNAMIC_KEY_CONFIG = {
 	SECRET_PHRASE = "MountDaunSecretKey2025", -- Ganti dengan frasa rahasia UNIK Anda
-	VALIDITY_MINUTES = 10 -- Kunci valid selama 10 menit
+	VALIDITY_MINUTES = 1 -- Kunci valid selama 10 menit
 }
 local TRIAL_KEY_URL = "https://your-username.github.io/your-repo/kunci.html" -- GANTI DENGAN LINK GENERATOR ANDA
 -- =======================================================
