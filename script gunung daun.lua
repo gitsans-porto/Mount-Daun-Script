@@ -17,7 +17,7 @@ local DYNAMIC_KEY_CONFIG = {
 	SECRET_PHRASE = "MountDaunSecretKey2025", -- Ganti dengan frasa rahasia UNIK Anda
 	VALIDITY_MINUTES = 1 -- Kunci valid selama 10 menit
 }
-local TRIAL_KEY_URL = "https://your-username.github.io/your-repo/kunci.html" -- GANTI DENGAN LINK GENERATOR ANDA
+local TRIAL_KEY_URL = "https://gitsans-porto.github.io/Web-Generator-Key/" -- GANTI DENGAN LINK GENERATOR ANDA
 -- =======================================================
 
 -- Layanan & Variabel Global
